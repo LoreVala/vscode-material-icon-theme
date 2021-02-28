@@ -50,7 +50,7 @@ export const folderIcons: FolderTheme[] = [
             { name: 'folder-php', folderNames: ['php'] },
             { name: 'folder-phpmailer', folderNames: ['phpmailer'] },
             { name: 'folder-sublime', folderNames: ['sublime'] },
-            { name: 'folder-docs', folderNames: ['doc', 'docs', 'documents', 'documentation', 'post', 'posts'] },
+            { name: 'folder-docs', folderNames: ['doc', 'docs', 'documents', 'document', 'documentation', 'post', 'posts'] },
             {
                 name: 'folder-git',
                 folderNames: ['.git', 'githooks', '.githooks', 'submodules', '.submodules']
@@ -96,7 +96,7 @@ export const folderIcons: FolderTheme[] = [
             { name: 'folder-log', folderNames: ['log', 'logs'] },
             { name: 'folder-temp', folderNames: ['temp', '.temp', 'tmp', '.tmp', 'cached', 'cache', '.cache'] },
             { name: 'folder-aws', folderNames: ['aws', '.aws'] },
-            { name: 'folder-audio', folderNames: ['audio', 'audios', 'music', 'sound', 'sounds'] },
+            { name: 'folder-audio', folderNames: ['audio', 'audios', 'music', 'musics', 'sound', 'sounds'] },
             { name: 'folder-video', folderNames: ['video', 'videos', 'movie', 'movies'] },
             { name: 'folder-kubernetes', folderNames: ['kubernetes', 'k8s'] },
             { name: 'folder-import', folderNames: ['import', 'imports', 'imported'] },
